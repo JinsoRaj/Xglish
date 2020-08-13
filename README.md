@@ -1,5 +1,5 @@
 # Xglish-API
-a simple and worst API for transliteration. Made **ONLY** for @XglishBot in @Telegram #FuNProJeCt
+a simple and worst API for transliteration. Made **ONLY** for [@XglishBot](https://t.me/XglishBot) in Telegram #FuNProJeCt
 * Hosted at [https://runkit.com/jinsoraj/toenglish](https://runkit.com/jinsoraj/toenglish)
 > Supports Malayalam, Hindi, Kannada as params
 * An example usage of ml:
