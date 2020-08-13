@@ -1,12 +1,12 @@
 {
   "name": "xglish-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "a simple and worst API for transliteration. Made for @XglishBot in @Telegram",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Jinso Raj (https://github.com/JinsoRaj)",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
