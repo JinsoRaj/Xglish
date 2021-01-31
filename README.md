@@ -11,25 +11,7 @@ a simple and worst API for transliteration. Made **ONLY** for [@XglishBot](https
 
 ```
 
-* An example of returned data for ml appears below:
-```json
 
-  [
-{
-"input": "ഒരു ഉദാഹരണം",
-"output": "oru udaaharanam"
-},
-{
-"input": "ഒരു ഉദാഹരണം",
-"output": "ഒരു ഉദാഹരണം"
-},
-{
-"input": "ഒരു ഉദാഹരണം",
-"output": "ഒരു ഉദാഹരണം"
-}
-]
-
-```
 ## Credits to
 
 * [@SubinS2000](https://t.me/SubinS2000) for [libindic-transliteration](https://gitlab.com/indicproject/indicjs).
